@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fract",
+				"fractY"
+			],
+			[
+				"frac",
+				"fractY"
+			],
+			[
+				"noi",
+				"noise_height"
+			],
+			[
+				"no",
+				"noise_height"
+			],
+			[
+				"nois",
+				"noise_height"
+			],
+			[
+				"noise",
+				"noise_width"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"temp_",
+				"temp_nsew"
+			],
+			[
+				"temp",
+				"temp_nsew"
+			],
+			[
+				"max",
+				"maxRowNum"
+			],
+			[
+				"tiles",
+				"tilesFilled"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"rand",
+				"randDirection"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"for",
+				"for	for i=1,10"
+			],
+			[
+				"each",
+				"each()	$."
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"lua",
+				"SublimeREPL: Lua"
+			],
+			[
+				"rep",
+				"SublimeREPL: Lua"
+			],
+			[
+				"repl",
+				"SublimeREPL: Lua"
+			],
+			[
+				"LUA",
+				"Set Syntax: Lua Dev"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"repl sh",
+				"SublimeREPL: Shell"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"pack in	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 187.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Redis/redis.conf",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/msi-build.xml",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Connector/app.Release.config",
+		"/C/Users/jdunn/Downloads/redis-2.6/msvs/RedisWatcher/Release/watcher.conf",
+		"/C/Users/jdunn/Downloads/redis-2.6/msvs/redis.conf",
+		"/C/Downloads/FileUploads/Archive/TSW_044_20131121.csv",
+		"/C/TSIPlus/dev/tsi-plus/resources/database/Tsi/insert_StationConfiguration.sql",
+		"/C/TSIPlus/dev/tsi-plus/resources/database/Tsi/BuildTsi.sql",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/build-installer.bat",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Fragments/InstallAnnouncer.wxs",
+		"/C/Program Files (x86)/Redis/Watcher/watcher.conf",
+		"/C/Users/jdunn/Downloads/dump.rdb",
+		"/C/Users/jdunn/Downloads/redis-2.6/redis-2.6/msvs/install/x64/redis.conf",
+		"/C/Users/jdunn/Downloads/redis-2.6/redis-2.6/msvs/install/x64/watcher.conf",
+		"/C/Program Files/Redis/conf/redis.conf",
+		"/C/Users/jdunn/Downloads/redis-2.6/msvs/install/x64/watcher.conf",
+		"/C/Users/jdunn/Downloads/redis-2.6/redis-2.6/msvs/install/x32/watcher.conf",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.FileImport/App.Release.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Web/TsiPlus.Web.UI/Web.Release.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Web/TsiPlus.Web.UI/Web.UAT.config",
+		"/C/TSIPlus/dev/tsi-plus/resources/database/Tsi/insert_Waypoints.sql",
+		"/C/Program Files (x86)/The GBS Group/TSI Announcer/TsiPlus.Services.Announcer.exe.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/app.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Product.wixobj",
+		"/C/Users/jdunn/Desktop/TsiPlus.Services.Announcer.exe.config",
+		"/C/Program Files (x86)/The GBS Group/TSI Announcer/TsiPlus.Services.Announcer.exe - Copy.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Web/TsiPlus.Web.UI/TsiPlus.Web.Post.Publish.xml",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Web/TsiPlus.Web.UI/TsiPlus.Web.UI.Publish.xml",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/TsiPlus.Announcer.csproj",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Installer/msi-build.xml",
+		"/C/TSIPlus/dev/tsi-plus/integration-build.xml",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/TsiPlus.Web.Post.Publish.xml",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/integration-build.xml",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Includes/Properties.wxi",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Includes/WixVariables.wxi",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Lang/en-us/Loc_en-us.wxl",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Fragments/InstallMediaFiles.wxs",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/Product.wxs",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/Installer/InstallAnnouncer.wixobj",
+		"/C/Projects/deploy/Web.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Emailer/TsiPlus.Services.Emailer.csproj",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Emailer/App.Release.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Messaging/TsiPlus.Messaging.csproj",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Messaging/app.Debug.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Announcer/app.Debug.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.ScheduleNotification/TsiPlus.Services.ScheduleNotification.csproj",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.ScheduleNotification/App.Debug.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Polling/App.Debug.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Polling/TsiPlus.Services.Polling.csproj",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.FileImport/TsiPlus.Services.FileImport.csproj",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.FileImport/AppRelease.config",
+		"/C/Verizon/Curtailment/.git/info/exclude",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.Connector/TsiPlus.Services.Connector.csproj",
+		"/C/Verizon/Curtailment/VerizonCurtailmentWebUI/VerizonCurtailmentWebUI/Web.Debug.config",
+		"/C/TSIPlus/dev/tsi-plus/TsiPlus.Services/TsiPlus.Services.FileImport/NLog.config",
+		"/C/Downloads/tgbo_09272013_sample.xml",
+		"/C/Downloads/tgbo_09302013_sample.xml",
+		"/C/Downloads/gbo_09302013d_demo_2.xml",
+		"/C/Downloads/gbo_09302013d_demo.xml",
+		"/C/Downloads/gbo_09272013a_demo.xml",
+		"/C/Downloads/gbo_09302103d_demo_2.xml",
+		"/C/Downloads/gbo_09272013a_demo_2.xml",
+		"/C/Downloads/gbo_09302103a_demo_2.xml",
+		"/C/TSIPlus/dev/tsi-plus/.git/info/exclude",
+		"/C/Users/jdunn/Downloads/gbo.xml",
+		"/C/Users/jdunn/Downloads/tgbo.xml",
+		"/C/Downloads/gbo_09302103d_demo.xml",
+		"/C/Downloads/gbo_09302013a_demo.xml",
+		"/C/Downloads/gbo_09302103a_demo.xml",
+		"/C/Downloads/gbo_09272103a_demo - Copy.xml",
+		"/C/Downloads/gbo_09302103a_demo_2 .xml",
+		"/C/Downloads/tgbo_01293_sample.xml",
+		"/C/Downloads/FileUploads/Archive/gbo_01294_sample.xml",
+		"/C/Downloads/FileUploads/Archive/tgbo_01294_sample.xml",
+		"/C/TSIPlus/dev/tsi-plus/resources/database/DropAndCreate_Example.bat",
+		"/C/Downloads/gbo_01293_sample.xml",
+		"/C/TSIPlus/dev/tsi-plus/resources/database/Build.bat",
+		"/C/Downloads/FileUploads/gbo_01293_sample.xml",
+		"/C/Users/jdunn/Downloads/SeaStar Uploads/3M_to_SeaStar_13Feb13.csv",
+		"/C/TSIPlus/dev/commit-msg",
+		"/C/TSIPlus/dev/helloworld/helloworld_test.py",
+		"/C/SeaStar/source/trunk/database/SeaStar/Schema/Tables/ChecklistTitles.sql",
+		"/C/SeaStar/source/trunk/database/SeaStar/Schema/Procedures/usp_DoSearch.sql",
+		"/C/SeaStar/source/trunk/database/SeaStar/Schema/Procedures/usp_Metrics.sql",
+		"/C/SeaStar/source/trunk/database/DropAndCreate_Example.bat",
+		"/C/Program Files (x86)/OpenSSH/etc/ssh_config",
+		"/C/Users/jdunn/.ssh/id_rsa.pub",
+		"/C/Users/jdunn/.ssh/id_rsa_p.ppk",
+		"/C/MEAP/trunk/MEAPEnterprise-ejb/.project",
+		"/C/SeaStar/source/trunk/database/SeaStar/CreateDb.sql",
+		"/C/Users/jdunn/Desktop/ChecklistTitles.sql",
+		"/C/SeaStar/resources/ChangeScripts/1828.sql",
+		"/C/SeaStar/resources/ChangeScripts/1799.sql",
+		"/C/Users/jdunn/Downloads/3M_to_SeaStar_13Feb13 (1).csv",
+		"/C/Users/jdunn/Downloads/3M_to_SeaStar__HMC_M_.csv",
+		"/C/SeaStar/resources/ChangeScripts/0805.sql",
+		"/C/Users/jdunn/Downloads/NOW_-_February_19__2013.csv",
+		"/C/SeaStar/source/trunk/database/.sql",
+		"/C/SeaStar/source/trunk/database/SeaStar/Data/Inspections.sql",
+		"/C/TSIPlus/solarmonkey/resources/ScheduleNotificationsScripts/BeforeDeparture_Validation_Script.sql",
+		"/C/Users/jdunn/Downloads/OCID_Results.csv",
+		"/C/SeaStar/source/trunk/database/SeaStar/Schema/Procedures/Imports.sql",
+		"/C/TSIPlus/solarmonkey/resources/ScheduleNotificationsScripts/Arrived_Validation_Script.sql",
+		"/C/Users/jdunn/Downloads/OCID_data.csv",
+		"/C/Users/jdunn/Downloads/3M19June12.csv",
+		"/C/SeaStar/resources/ChangeScripts/1771.sql",
+		"/C/SeaStar/resources/ChangeScripts/1794.sql",
+		"/C/Users/jdunn/Pictures/terrain generator/output.dat",
+		"/C/Users/jdunn/Pictures/terrain generator/terrain generator.lua",
+		"/C/TSIPlus/spero/TsiPlus.Web/TsiPlus.Web.UI/Scripts/TsiPlus/TsiPlus.Portal/TsiPlus.Portal.OCC.js",
+		"/C/TSIPlus/spero/659_patch.patch",
+		"/C/TSIPlus/boxofchocolates/adherence_patch.patch",
+		"/C/TSIPlus/boxofchocolates/adherence_patch2.patch",
+		"/C/Users/jdunn/Pictures/terrain generator/...unn/Pictures/terrain generator/terrain generator.lua",
+		"/C/Users/jdunn/AppData/Roaming/Sublime Text 2/Packages/User/Lua.sublime-settings",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/Lua.sublime-package",
+		"/C/TSIPlus/roughstart/resources/database/Tsi_Membership/Insert_aspnet_Roles.sql",
+		"/C/TSIPlus/roughstart/TsiPlus.Announcer/bin/Debug/TsiPlus.Announcer.vshost.exe.config",
+		"/C/Users/jdunn/Downloads/ALL (2).log",
+		"/C/TSIPlus/roughstart/TsiPlus.Services/TsiPlus.Services.ScheduleNotification/bin/Debug/TsiPlus.Services.ScheduleNotification.exe.config",
+		"/C/TSIPlus/roughstart/TsiPlus.Services/TsiPlus.Services.ScheduleNotification/bin/Debug/App.config",
+		"/C/TSIPlus/roughstart/resources/database/Tsi/insert_xrf_RoutesWaypoints2.sql",
+		"/C/TSIPlus/roughstart/TsiPlus.Web/TsiPlus.Web.UI/Content/images/hq/VIA_Rail_Canada_Logo_HQ.svg",
+		"/C/TSIPlus/roughstart/resources/database/Tsi/BuildTsi.sql",
+		"/C/TSIPlus/owatanka/resources/database/Tsi_Membership/Insert_aspnet_Roles.sql",
+		"/C/TSIPlus/owatanka/ghostfish.sublime-project",
+		"/C/TSIPlus/roughstart/TsiPlus.Utilties/AlgorithmRepl/Sample.cs",
+		"/C/TSIPlus/owatanka/TsiPlus.Web/TsiPlus.Web.UI/Content/images/hq/VIA_Rail_Canada_Logo_HQ.svg"
+	],
+	"find":
+	{
+		"height": 78.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uat",
+			"//",
+			"	",
+			"LPD   18",
+			"2/4/2013 0:00,,LPD",
+			"679990134",
+			"1/7/2013 0:00,1/13",
+			"1/07/2013 0:00,",
+			"2/13/2013 0:00,,",
+			"1/23/2013 0:00,2/15",
+			"1/13/2013 0:00,1/25",
+			"1/15/2013",
+			"2011",
+			"GO",
+			"@Path",
+			"Belleville",
+			"BellevilleEast",
+			"Service:050",
+			"([a-zA-Z\\p{M}]))|([ -][a-zA-Z\\p{M}])",
+			"([a-zA-Z\\p{M}]))|([ |-|\\.][a-zA-Z\\p{M}])",
+			"([\\s-]|^)([a-z0-9-_]+)",
+			"#([\\s-]|^)([a-z0-9-_]+)#i",
+			"(^|-)(\\w)",
+			"drummon",
+			"(.[^,]*$)",
+			"([^<]+.)",
+			"(^[^:]+:[^:])",
+			"^[^:]+:[^:]",
+			"MIMICO",
+			"Mimico",
+			"'^[^:]+:[^:]+:(.*)$'",
+			"'^[^:]+:[^:]+:(.*)$', '\\1'",
+			"REGEXP_REPLACE(title,'^[^:]+:[^:]+:(.*)$', '\\1')",
+			"^[^:]+:[^:]+:(.*)$",
+			"/(?:|)?\\s*(\\w+)/",
+			"/(?:\\|)?\\s*(\\w+)/",
+			"Car=car13,Direction",
+			"Car=car27,Direction",
+			"FFFFFF",
+			"8",
+			"000000",
+			">\n",
+			"20ECE1AE-96ED-4F2C-A75C-D51C6E65D728",
+			"timezone",
+			"goto",
+			"\n    ",
+			"refreshRate",
+			"TsiPlus",
+			"refreshRate",
+			"fcn",
+			"EnableTimer",
+			"TsiPlus",
+			"Timer",
+			"containerId",
+			"SelectedKeyId",
+			"\n            ",
+			"TortoiseStatusCommand",
+			"TortoiseProc",
+			"ctrl+e",
+			"DateIsInRange | LastNMinutes",
+			"=  ",
+			" AS Name,",
+			" ,NU",
+			" AS LAT,",
+			"AS LON",
+			"Union"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			",",
+			"000000",
+			"=  and ISNULL(Subdivision,'') = '') INSERT INTO Dbo.Waypoints2 (Name, Subdivision, Latitude, Longitude, MilePost) Values (",
+			",NULL,",
+			",NU",
+			",",
+			",NULL)",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/jdunn/Downloads/SeaStar Uploads/3M_to_SeaStar_13Feb13.csv"
+			],
+			[
+				"station.sql",
+				"resources/database/Tsi/insert_StationConfiguration.sql"
+			],
+			[
+				"stationsql",
+				"resources/database/Tsi/insert_stationaliases.sql"
+			],
+			[
+				"buildts",
+				"resources/database/Tsi/BuildTsi.sql"
+			],
+			[
+				"buildtsi",
+				"resources/database/Tsi/BuildTsi.sql"
+			],
+			[
+				"filtering.j",
+				"TsiPlus.Web/TsiPlus.Web.UI/Scripts/TsiPlus/TsiPlus.Filtering.js"
+			],
+			[
+				"filterin",
+				"TsiPlus.Web/TsiPlus.Web.UI/Scripts/TsiPlus/TsiPlus.Filtering.js"
+			],
+			[
+				"stationstatus.js",
+				"TsiPlus.Web/TsiPlus.Web.UI/Scripts/TsiPlus/TsiPlus.Portal/TsiPlus.Portal.StationStatus.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true
+}
